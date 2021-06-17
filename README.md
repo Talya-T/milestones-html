@@ -72,20 +72,20 @@ Here are some more reference-like resources. These might be slightly technical, 
 
 You should be able to...
 
-- [ ] Open the terminal outside of VS Code
-- [ ] Use `cd` to navigate between directories
-- [ ] Use `ls` to list the contents of a directory
-- [ ] Use `mkdir` to create an empty directory
-- [ ] Use `touch` to create an empty file
+- [x] Open the terminal outside of VS Code
+- [x] Use `cd` to navigate between directories
+- [x] Use `ls` to list the contents of a directory
+- [x] Use `mkdir` to create an empty directory
+- [x] Use `touch` to create an empty file
 - [ ] Use `code` to open VS Code
 
 ### Editing and Viewing
 
-- [ ] Create a new (empty) project directory
-- [ ] In the new project directory, create a new (empty) HTML file named `index.html` and edit it in VS Code
-- [ ] Write some HTML in `index.html`
-- [ ] Open `index.html` in your browser and view it locally
-- [ ] Add an image to the project directory and display it on the webpage using the `<img>` tag
+- [x] Create a new (empty) project directory
+- [x] In the new project directory, create a new (empty) HTML file named `index.html` and edit it in VS Code
+- [x] Write some HTML in `index.html`
+- [x] Open `index.html` in your browser and view it locally
+- [x] Add an image to the project directory and display it on the webpage using the `<img>` tag
 
 ### Publishing HTML
 
